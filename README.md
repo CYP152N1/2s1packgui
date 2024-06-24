@@ -65,7 +65,7 @@ python unipack_gui.py
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-# 収納容器管理システム
+# 2s1packgui
 
 このプロジェクトは、収納容器を管理するためのグラフィカルユーザーインターフェイス（GUI）アプリケーションです。ユーザーは、サンプルをコンテナにロード、マウント、移動することができ、すべての操作をログファイルに記録し、GUI内のスクロール可能なテキストボックスに表示します。
 
