@@ -21,20 +21,15 @@ This project is a graphical user interface (GUI) application for managing storag
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/StorageContainerManagement.git
+    git clone https://github.com/CYP152N1/2s1packgui
     cd StorageContainerManagement
-    ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## Usage
 
 Run the `unipack_gui.py` script to start the application:
 ```bash
-python unipack_gui.py
+python 2s1packgui.py
 ```
 
 ### Load Tab
@@ -58,11 +53,10 @@ python unipack_gui.py
 
 ## Example
 
-![Screenshot](screenshot.png)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
 
 
 # 2s1packgui
@@ -88,20 +82,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 1. リポジトリをクローンします：
     ```bash
-    git clone https://github.com/yourusername/StorageContainerManagement.git
+    git clone https://github.com/CYP152N1/2s1packgui
     cd StorageContainerManagement
-    ```
-
-2. 必要な依存関係をインストールします：
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## 使い方
 
 `unipack_gui.py`スクリプトを実行してアプリケーションを起動します：
 ```bash
-python unipack_gui.py
+python 2s1packgui.py
 ```
 
 ### Loadタブ
